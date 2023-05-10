@@ -21,7 +21,7 @@
 * **Mã môn học:** CS338
 * **Mã lớp:** CS338.N21.KHCL
 * **Năm học:** HK2 (2022 - 2023)
-* **Giảng viên:** ThS. Đỗ Văn Tiến - tiendt@uit.edu.vn
+* **Giảng viên:** ThS. Đỗ Văn Tiến - tiendv@uit.edu.vn
 
 
 ## [THÔNG TIN VỀ CÁC THÀNH VIÊN NHÓM](#top)

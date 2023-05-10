@@ -28,5 +28,5 @@
 | STT    | MSSV          | Họ và Tên                |Vai trò    | Github                                          | Email                   |
 | :----: |:-------------:| :-----------------------:|:---------:|:-----------------------------------------------:|:-------------------------:
 | 1      | 20521546      | Lê Tấn Lộc               |Trưởng nhóm|[leetnlok](https://github.com/leetnlok)          |20521546@gm.uit.edu.vn   |
-| 2      | 20520795      | Nguyễn Minh Thuận        |Thành viên |[ThuanE3691](https://github.com/ThuanE3691)      |20520278@gm.uit.edu.vn   |
+| 2      | 20520795      | Nguyễn Minh Thuận        |Thành viên |[ThuanE3691](https://github.com/ThuanE3691)      |20520795@gm.uit.edu.vn   |
 | 3      | 20520313      | Nguyễn Hồng Anh Thư      |Thành viên |[thuwpink](https://github.com/thuwpink)          |20520313@gm.uit.edu.vn   |
